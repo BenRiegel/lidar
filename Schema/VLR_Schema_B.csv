@@ -1,0 +1,1 @@
+Key,Name,Formatreserved,Reserved,unsigned shortuser_id,User ID,text[16]record_id,Record Id,unsigned shortrecord_len,Record Length,unsigned shortdescription,Description,text[32]

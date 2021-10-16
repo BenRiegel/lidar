@@ -1,0 +1,1 @@
+Key,Name,Formatgps_time_type,GPS Time Type,bit[1]waveform_data_internal,Waveform Data Packets Internal,bit[1]waveform_data_external,Waveform Data Packets External,bit[1]synthetic_return_nums,Synthetic Return Numbers,bit[1]wkt,CRS is WKT Format,bit[1]reserved,Reserved,bit[11]
